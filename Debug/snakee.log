@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\semester 6\comp graphics\section\snakee\Source.cpp(126,10): warning C4101: 'tmp_str': unreferenced local variable
+  snakee.vcxproj -> E:\semester 6\comp graphics\section\snakee\Debug\snakee.exe
